@@ -1,0 +1,15 @@
+thatguyintech@albert BuyMeACoffee-contracts % npm init -y
+Wrote to /Users/thatguyintech/Documents/co/videos/week2/BuyMeACoffee-contracts/package.json:
+
+{
+  "name": "buymeacoffee-contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
